@@ -28,7 +28,7 @@ import static org.mockito.Mockito.*;
 import java.util.Calendar;
 import java.util.Date;
 
-public class BookEntityEntityIntegrationTests {
+public class BookEntityIntegrationTests {
 
   private IBook testBook_;
   private ILoan testLoan_;
